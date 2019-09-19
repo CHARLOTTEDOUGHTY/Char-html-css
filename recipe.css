@@ -75,3 +75,13 @@ ol {
 #nutrition .nutri-value {
   float: right;
 }
+footer {
+  clear: both;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 30px;
+}
+
+footer p {
+  font: 1rem Arial;
+}
